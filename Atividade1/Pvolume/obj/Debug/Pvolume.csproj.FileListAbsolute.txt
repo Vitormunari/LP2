@@ -1,0 +1,10 @@
+D:\LP2\PVolume\Pvolume\Pvolume\bin\Debug\Pvolume.exe.config
+D:\LP2\PVolume\Pvolume\Pvolume\bin\Debug\Pvolume.exe
+D:\LP2\PVolume\Pvolume\Pvolume\bin\Debug\Pvolume.pdb
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.csprojAssemblyReference.cache
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.Form1.resources
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.Properties.Resources.resources
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.GenerateResource.cache
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.csproj.CoreCompileInputs.cache
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.exe
+D:\LP2\PVolume\Pvolume\Pvolume\obj\Debug\Pvolume.pdb
